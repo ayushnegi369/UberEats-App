@@ -1,4 +1,4 @@
-# My Universal React Project
+# UberEats Clone App
 
 <p>
   <!-- iOS -->
